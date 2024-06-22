@@ -7,5 +7,5 @@ from HackThisSite.
 - 🌱 I’m currently following the penetration tester from HTB
 - 📫 How to reach me: selyca@proton.me
 - ⚡ Fun fact: Fire emblem is my favourite game , specific Birthright.
-- See my reflection repo in order to understand my progress so far
+- <i>See my reflection repo in order to understand my progress so far</i>
 
