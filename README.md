@@ -7,7 +7,5 @@ from HackThisSite.<br>
 
 
 ## Important notes!
-### BD meaning (Brain dump)
-Sometimes I like to write about topics which I discovered during exploring CS. This repos are purely an opinion and has the purpose to inform.
 ### UC meaning
 Under construction.Currently I am ordering my previous containers and some containers needs more information such as printscreens, container description or context.
