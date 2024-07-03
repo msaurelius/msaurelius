@@ -5,9 +5,10 @@ ________________________________________________________________________________
 - 🐣 Fun fact: Fire emblem is my favourite game , specific Birthright beside that I love critical thinking and Stoicism.
 _______________________________________________________________________________________________________________________
 - 🌸 Working on:
-     <br> - Improving old containers(adding more clearer description,pictures etc.) For example:
+     <br> - Improving old containers(adding more clearer description,pictures etc.) For example: <br>
             - THM: Anthem <br>
             - THM: Ricky and Morty<br>
             - HTS: B1 t/m B5<br>
+            <br>
      <br> - I improved my workflow, so the containers which I am currently working on are available.
 _______________________________________________________________________________________________________________________
