@@ -4,11 +4,9 @@ ________________________________________________________________________________
 - 🐶  I’m currently following the penetration tester career path from HTB<br>
 - 🐣 Fun fact: Fire emblem is my favourite game , specific Birthright beside that I love critical thinking and Stoicism.
 _______________________________________________________________________________________________________________________
-- 🌸 Working on:
-     <br> - Improving old containers(adding more clearer description,pictures etc.) For example: <br>
-            - THM: Anthem <br>
-            - THM: Ricky and Morty<br>
-            - HTS: B1 t/m B5<br>
-            <br>
-     <br> - I improved my workflow, so the containers which I am currently working on are available.
+🌸 Working on:
+<br> - I improved my workflow, so the containers which I am currently working on are available.
+     <br> - Improving old containers(adding more clearer description,pictures etc.)<br>
+  <br>For example: <i> THM: Anthem ,THM: Ricky and Morty,HTS: B1 t/m B5</i><br>
+     
 _______________________________________________________________________________________________________________________
