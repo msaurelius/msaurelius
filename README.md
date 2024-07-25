@@ -15,7 +15,7 @@ understand cyber security. <br>
 - Currently learning Python
 - Certificate I am working on<br>
        - Developing Ethical Hacking Tools with Python<br>
-       - Junior penetration tester(THM)
+       - Junior Penetration Tester
 
 <I>Note: Products I currently build are at the "Hobby project" section.</i>
 ## Projects  👾
