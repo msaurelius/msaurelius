@@ -2,8 +2,6 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-
-
 ## About me  	🤓
 I am graduated as a application developer and I like to learn Python in my spare time. Currently I try to learn more about cyber security. I learn by unlocking containers(THM,HTB) and searching for projects which helps me to 
 understand cyber security. <br>
@@ -18,6 +16,40 @@ understand cyber security. <br>
 <I>Note: Products I currently build are at the "Hobby project" section.</i>
 ## Projects  👾
 <details>
+<Container>
+<summary><b> Currently working on ....</summary>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Goals/th>
+      <th>Status</th>
+      <th>Certified by/th>
+      <th>Description</th>
+    </tr>
+  </thead>
+   <tbody>
+    <tr>
+      <td><a href='https://github.com/not-a-hacker-128/JrPenetrationTester'>Junior penetration tester</a></td>
+      <td> Practice theory and assessments to learn about being a penetration tester </td>
+      <th>Just started/th>
+      <td>TryHackMe</td>
+      <td> Learning path covers the core technical skills that will allow you to succeed as a junior penetration tester. Upon completing this path, you will have the practical skills necessary to perform security assessments against web applications and enterprise infrastructure. </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/not-a-hacker-128/Certificates/tree/main/Developing%20ethical%20hacking%20tools%20with%20Python'>Developing ethical hacking tools with Python</a></td>
+      <td>Brute-force,steganography,privilege escalation</td>
+      <th>In progress, module 2/4</th>
+      <td>Cybrary</td>
+      <td> Automate your security assessment processes. Python is easy to learn and can be very powerful when you master it. </td>
+    </tr>
+  </tbody>
+</table>
+</Container>
+</details>
+  <details>
 <Container>
 <summary><b>Internship projects</summary>
 <table>
