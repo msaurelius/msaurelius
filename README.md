@@ -5,17 +5,17 @@
   <br />
   <br />
 
-## About me
+## About me  	🤓
 I am graduated as a application developer and I like to learn Python in my spare time. Currently I try to learn more about cyber security. I learn by unlocking containers(THM,HTB) and searching for projects which helps me to 
 understand cyber security. <br>
 
-#### Did you know ....
+#### Did you know ....  😎
 - My favorite game is Fire emblem Birthright
 - I still love pokemon , do you know Pokemon Sun?
 - Currently learning Python
 - Certificate I am working on : Developing Ethical Hacking Tools with Python
 
-## Projects
+## Projects  👾
 <details>
 <Container>
 <summary><b>Internship projects</summary>
