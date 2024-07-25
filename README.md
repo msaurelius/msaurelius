@@ -14,7 +14,7 @@ understand cyber security. <br>
 - I still love pokemon , do you know Pokemon Sun?
 - Currently learning Python
 - Certificate I am working on<br>
-       - Developing Ethical Hacking Tools with Python
+       - Developing Ethical Hacking Tools with Python<br>
        - Junior penetration tester(THM)
 
 <I>Note: Products I currently build are at the "Hobby project" section.</i>
