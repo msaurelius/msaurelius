@@ -15,7 +15,7 @@ understand cyber security. <br>
 - Currently learning Python
 - Certificate I am working on : Developing Ethical Hacking Tools with Python
 
-<I>Note: Projects I currently build are at the "hobby project" section. Programming language can be vary</i>
+<I>Note: Products I currently build are at the "Hobby project" section.</i>
 ## Projects  👾
 <details>
 <Container>
