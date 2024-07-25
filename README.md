@@ -16,6 +16,43 @@ understand cyber security. <br>
 ## Projects
 <details>
 <Container>
+<summary><b>Internship projects</summary>
+<table>
+  <thead>
+    <tr>
+      <th>Type of project</th>
+      <th>Skills used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Graduation assignement</td>
+      <td>During the period of 6 months I created a WYSIWYG mobile application which was capable to run on Android and IOS. <br>
+Summary of tools/languages I used: <br>
+- React-Native<br>
+- Typescript(include architecture)<br>
+- JSON Schema's<br> </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>CRAN (working experience place)</td>
+      <td>For my working experience company I built an CRAN beside testing for 6 months.
+A CRAN is simplified a home made library which can be modified by the R developers of the company. The CRAN which I needed to built was
+used for internal only. And I learned about package management.<br>
+What did I learn?: <br>
+
+- R<br>
+- Package management<br>
+- Writing manual<br>
+- Dynamically(User can download from CRAN but only developers can adjust it. Dynamically approach, it needs to be accesible for the employees and not only for the people who develop R)</td></td>
+    </tr>
+  </tbody>
+</table>
+</Container>
+</details>
+<details>
+<Container>
 <summary><b>Hobby projects</summary>
 <table>
   <thead>
@@ -28,6 +65,13 @@ understand cyber security. <br>
   <tbody>
     <tr>
       <td><a href='https://github.com/msaurelius/TCP_Client'>TCP Client</a></td>
+      <td>Python</td>
+      <td>Transmission control protocol client </td>
+    </tr>
+  </tbody>
+   <tbody>
+    <tr>
+      <td><>TCP Client</a></td>
       <td>Python</td>
       <td>Transmission control protocol client </td>
     </tr>
@@ -90,27 +134,4 @@ understand cyber security. <br>
 </table>
 </Container>
 </details>
-
-
-## Working experience(projects)
-<i>Graduation assignment</i><br>
-During the period of 6 months I created a WYSIWYG mobile application which was capable to run on Android and IOS. <br>
-Summary of tools/languages I used: <br>
-- React-Native<br>
-- Typescript(include architecture)<br>
-- JSON Schema's<br>
-<br>
-<i>CRAN </i><br>
-For my working experience company I built an CRAN beside testing for 6 months.
-A CRAN is simplified a library which can be modified by the R developers of the company. The CRAN which I needed to built was
-used for internal only. And I learned about package management.<br>
-What did I learn?: <br>
-
-- R<br>
-- Package management<br>
-- Writing manual<br>
-- Dynamically(User can download from CRAN but only developers can adjust it. Dynamically approach, it needs to be accesible for the employees and not only for the people who develop R)
-<br>
-<br>
-<br>
 
