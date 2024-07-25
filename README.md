@@ -9,7 +9,27 @@
   
 
 ## Projects
-<!-- start work experience section -->
+<details>
+<Container>
+<summary><b>Hobby projects</summary>
+<table>
+  <thead>
+    <tr>
+      <th>Name of project</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/msaurelius/TCP_Client'>TCP Client</a></td>
+      <td>Python</td>
+      <td>Transmission control protocol client </td>
+    </tr>
+  </tbody>
+</table>
+</Container>
+</details>
 <details>
 <Container>
 <summary><b> Container</summary>
@@ -57,7 +77,7 @@
     <tr>
       <td><a href='https://github.com/msaurelius/IntroductionSIEM'>Introduction to SIEM</a></td>
       <td>Introduction to Security Information and Event Management. /td>
-      <th>FInished/th>
+      <th>Finished/th>
       <td>TryHackMe</td>
       <td> SIEM stands for Security Information and Event Management system. It is a tool that collects data from various endpoints/network devices across the network, stores them at a centralized place, and performs correlation on them. This box will cover the basic concepts required to understand SIEM and how it works.  </td>
     </tr>
