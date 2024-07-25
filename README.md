@@ -71,13 +71,6 @@ What did I learn?: <br>
       <td>Transmission control protocol client </td>
     </tr>
   </tbody>
-   <tbody>
-    <tr>
-      <td><>TCP Client</a></td>
-      <td>Python</td>
-      <td>Transmission control protocol client </td>
-    </tr>
-  </tbody>
 </table>
 </Container>
 </details>
