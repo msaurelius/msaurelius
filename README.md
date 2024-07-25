@@ -3,3 +3,4 @@
 - 💡 Favourite games? Pokemon Sun and fire emblem
 - 🔮 Need more info about me? Check my whoami repo 
       
+![Visitor Count](https : //profile-counter.glitch.me/msaurelius/count.svg)
