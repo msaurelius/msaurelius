@@ -12,7 +12,6 @@ understand cyber security. <br>
 #### Did you know ....  😎
 - My favorite game is Fire emblem Birthright
 - I still love pokemon , do you know Pokemon Sun?
-- Currently learning Python
 - Certificate I am working on<br>
        - Developing Ethical Hacking Tools with Python<br>
        - Junior Penetration Tester
