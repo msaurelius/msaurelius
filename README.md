@@ -13,7 +13,9 @@ understand cyber security. <br>
 - My favorite game is Fire emblem Birthright
 - I still love pokemon , do you know Pokemon Sun?
 - Currently learning Python
-- Certificate I am working on : Developing Ethical Hacking Tools with Python
+- Certificate I am working on<br>
+       - Developing Ethical Hacking Tools with Python
+       - Junior penetration tester(THM)
 
 <I>Note: Products I currently build are at the "Hobby project" section.</i>
 ## Projects  👾
@@ -128,6 +130,15 @@ What did I learn?: <br>
       <th>In progress, module 2/4</th>
       <td>Cybrary</td>
       <td> Automate your security assessment processes. Python is easy to learn and can be very powerful when you master it. </td>
+    </tr>
+  </tbody>
+   <tbody>
+    <tr>
+      <td><a href='https://github.com/not-a-hacker-128/JrPenetrationTester'>Junior penetration tester</a></td>
+      <td> Practice theory and assessments to learn about being a penetration tester </td>
+      <th>Just started/th>
+      <td>TryHackMe</td>
+      <td> Learning path covers the core technical skills that will allow you to succeed as a junior penetration tester. Upon completing this path, you will have the practical skills necessary to perform security assessments against web applications and enterprise infrastructure. </td>
     </tr>
   </tbody>
   <tbody>
