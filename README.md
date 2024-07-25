@@ -65,9 +65,23 @@ What did I learn?: <br>
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/msaurelius/TCP_Client'>TCP Client</a></td>
+      <td><a href='https://github.com/not-a-hacker-128/TCP_Client'>TCP Client</a></td>
       <td>Python</td>
       <td>Transmission control protocol client </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href='https://github.com/not-a-hacker-128/infogathering_tool/tree/main'>Information gathering tool</a></td>
+      <td>Python</td>
+      <td>Gather information</td>
+    </tr>
+  </tbody>
+    <tbody>
+    <tr>
+      <td><a href='https://github.com/not-a-hacker-128/automating_gathering_information_tool/tree/main'>Automated information gathering tool</a></td>
+      <td>Python</td>
+      <td>Automated gathering information</td>
     </tr>
   </tbody>
 </table>
@@ -86,7 +100,7 @@ What did I learn?: <br>
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/msaurelius/AgentSudo'>Agent sudo</a></td>
+      <td><a href='https://github.com/not-a-hacker-128/AgentSudo'>Agent sudo</a></td>
       <td>Brute-force,steganography,privilege escalation</td>
       <td>I learned several things from this machine. For example I used FTP for the first time.Some elements were already known such as brute force and reading files. Although some elements were new such as the ZIP file password were I used binwalk. It was interesting to go in depth on getting information based on a picture. Transcibing a code into regular text(from BASE64) was familiar and I thought it was a fun concept. Afterwards I used Jack the ripper which was my first time.</td>
     </tr>
@@ -109,7 +123,7 @@ What did I learn?: <br>
   </thead>
    <tbody>
     <tr>
-      <td><a href='https://github.com/msaurelius/Certificates/tree/main/Developing%20ethical%20hacking%20tools%20with%20Python'>Developing ethical hacking tools with Python</a></td>
+      <td><a href='https://github.com/not-a-hacker-128/Certificates/tree/main/Developing%20ethical%20hacking%20tools%20with%20Python'>Developing ethical hacking tools with Python</a></td>
       <td>Brute-force,steganography,privilege escalation</td>
       <th>In progress, module 2/4</th>
       <td>Cybrary</td>
@@ -118,7 +132,7 @@ What did I learn?: <br>
   </tbody>
   <tbody>
     <tr>
-      <td><a href='https://github.com/msaurelius/IntroductionSIEM'>Introduction to SIEM</a></td>
+      <td><a href='https://github.com/not-a-hacker-128/IntroductionSIEM'>Introduction to SIEM</a></td>
       <td>Introduction to Security Information and Event Management. /td>
       <th>Finished/th>
       <td>TryHackMe</td>
