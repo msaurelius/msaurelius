@@ -2,8 +2,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <br />
-  <br />
+
 
 ## About me  	🤓
 I am graduated as a application developer and I like to learn Python in my spare time. Currently I try to learn more about cyber security. I learn by unlocking containers(THM,HTB) and searching for projects which helps me to 
