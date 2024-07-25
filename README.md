@@ -38,10 +38,8 @@ Summary of tools/languages I used: <br>
   </tbody>
   <tbody>
     <tr>
-      <td>CRAN (working experience place)</td>
-      <td>For my working experience company I built an CRAN beside testing for 6 months.
-A CRAN is simplified a home made library which can be modified by the R developers of the company. The CRAN which I needed to built was
-used for internal only. And I learned about package management.<br>
+      <td>CRAN (working experience compay</td>
+      <td>For my working experience company I built a CRAN beside testing for the company for 6 months. Simplified, a CRAN is a homemade library which can be modified by the R developers of the company. The cran which I needed to built was for internal use only.<br>
 What did I learn?: <br>
 
 - R<br>
