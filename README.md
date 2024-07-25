@@ -6,7 +6,12 @@
   <br />
 
 ## About me
-  
+I am graduated as a application developer and I like to learn Python in my spare time. Currently I try to learn more about cyber security. I learn by unlocking containers(THM,HTB) and searching for projects which helps me to 
+understand cyber security. <br>
+
+#### Did you know ....
+- My favorite game is Fire emblem Birthright
+- I still love pokemon , do you know Pokemon Sun?
 
 ## Projects
 <details>
@@ -86,4 +91,26 @@
 </Container>
 </details>
 
+
+## Working experience(projects)
+<i>Graduation assignment</i><br>
+During the period of 6 months I created a WYSIWYG mobile application which was capable to run on Android and IOS. <br>
+Summary of tools/languages I used: <br>
+- React-Native<br>
+- Typescript(include architecture)<br>
+- JSON Schema's<br>
+<br>
+<i>CRAN </i><br>
+For my working experience company I built an CRAN beside testing for 6 months.
+A CRAN is simplified a library which can be modified by the R developers of the company. The CRAN which I needed to built was
+used for internal only. And I learned about package management.<br>
+What did I learn?: <br>
+
+- R<br>
+- Package management<br>
+- Writing manual<br>
+- Dynamically(User can download from CRAN but only developers can adjust it. Dynamically approach, it needs to be accesible for the employees and not only for the people who develop R)
+<br>
+<br>
+<br>
 
